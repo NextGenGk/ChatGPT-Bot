@@ -23,14 +23,20 @@
     --btn-fc-color: #151618;
 }
 
-body {
+/* body {
     background: var(--background-dark);
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
         'Open Sans', 'Helvetica Neue', sans-serif;
     color: var(--fc-light);
-}
+} */
 
-/* ╭───────────────────0─────────╮ */
+body {
+    background: var(--background-dark);
+    font-family: system-ui, Windows System, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: var(--fc-light);
+  }
+
+/* ╭───────────────────0────────╮ */
 /* │        Text Styling        │ */
 /* ╰────────────────────────────╯ */
 h1,
